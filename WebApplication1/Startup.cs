@@ -40,6 +40,8 @@ namespace WebApplication1
                 app.UseHsts();
             }
 
+            // 코드추가22222222123123
+
             app.UseHttpsRedirection();
             app.UseMvc();
         }
