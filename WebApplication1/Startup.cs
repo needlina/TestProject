@@ -40,7 +40,7 @@ namespace WebApplication1
                 app.UseHsts();
             }
 
-            // 코드넣기
+            // 코드넣기222
         
             
             app.UseHttpsRedirection();
